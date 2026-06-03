@@ -1,0 +1,5 @@
+# bundle artifacts (too large for git, delivered directly)
+saw_files.zip
+*.zip
+__pycache__/
+*.tmp
